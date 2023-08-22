@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "CRUD qwik fiber",
+  "short_name": "Welcome Tech con Agust",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A Qwik and Fiber project app."
+}
